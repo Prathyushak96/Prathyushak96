@@ -15,20 +15,35 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Prathyusha Kudari</h1>
+<h1 align="center">Hi 👋, I'm Prathyusha kudari</h1>
+<h3 align="center">A passionate Software Tester from India</h3>
 
-<h3 align="center">A passionate software tester from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathyushak96&label=Profile%20views&color=0e75b6&style=flat" alt="prathyushak96" /> </p>
 
-- 🔭 I’m currently working on <strong>Manual Testing</strong>
-- 🌱 I’m currently learning <strong>Automation Testing Selenium with Java</strong>
-- 👨‍💻 All of my projects are available at (https://github.com/Prathyushak96)
-- 💬 Ask me about <strong>Manual Testing, Java Programming Familiar with basic SQL</strong>
-- 📫 How to reach me: kudariprathyusha96@gmail.com
+- 🔭 I’m currently working on **Manual Testing**
+
+- 🌱 I’m currently learning **Selenium with Java**
+
+- 💬 Ask me about **Manual Testing,Java programming,SQL Basics**
+
+- 📫 How to reach me **kudariprathyusha96@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/prathyusha-kudari" target="_blank"><img src=”https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin” height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prathyusha-kudari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathyusha-kudari" height="30" width="40" /></a>
+<a href="https://instagram.com/pra_ts_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pra_ts_" height="30" width="40" /></a>
+<a href="https://medium.com/@prathyusha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prathyusha" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathyushak96&show_icons=true&locale=en&layout=compact" alt="prathyushak96" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathyushak96&show_icons=true&locale=en" alt="prathyushak96" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathyushak96&" alt="prathyushak96" /></p>
+
 
 
 
