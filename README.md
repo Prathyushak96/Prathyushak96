@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 <h3 align="center">A passionate software tester from India</h3>
 
-- 🔭 I’m currently working on ** Manual Testing **
-- 🌱 I’m currently learning ** Automation Testing Selenium with Java **
+- 🔭 I’m currently working on Manual Testing
+- 🌱 I’m currently learning Automation Testing Selenium with Java
 - 👨‍💻 All of my projects are available at (https://github.com/Prathyushak96)
-- 💬 Ask me about **Manual Testing, Java Programming Familiar with basic SQL, **
-- 📫 How to reach me **kudariprathyusha96@gmail.com **
+- 💬 Ask me about Manual Testing, Java Programming Familiar with basic SQL
+- 📫 How to reach me kudariprathyusha96@gmail.com
 
 
