@@ -24,8 +24,13 @@ Here are some ideas to get you started:
 - 👨‍💻 All of my projects are available at (https://github.com/Prathyushak96)
 - 💬 Ask me about <strong>Manual Testing, Java Programming Familiar with basic SQL</strong>
 - 📫 How to reach me kudariprathyusha96@gmail.com
-    <a href=https://www.linkedin.com/in/prathyusha-kudari/ target-“_blank”>Prathyushak96</a>
 
+//<h3 align="left">Connect with me:</h3>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/prathyusha-kudari" target="_blank"><img src=”https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg” height="30" width="40" /></a>
+</p>
 
 
 
