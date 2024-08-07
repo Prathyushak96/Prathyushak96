@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Selenium with Java**
 
-- 💬 Ask me about **Manual Testing,Java programming,SQL Basics**
+- 💬 Ask me about **Manual Testing, Java programming, SQL Basics**
 
-- 📫 How to reach me **kudariprathyusha96@gmail.com**
+- 📫 How to reach me:  **kudariprathyusha96@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,10 +35,7 @@ Here are some ideas to get you started:
 <a href="https://medium.com/@prathyusha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prathyusha" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages :</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathyushak96&show_icons=true&locale=en&layout=compact" alt="prathyushak96" /></p>
+
 
 
 
