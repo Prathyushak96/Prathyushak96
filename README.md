@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Manual Testing, Java programming, SQL Basics**
 
 - 📫 How to reach me:  **kudariprathyusha96@gmail.com**
-
+  
+- 📝 I write articles on  https://medium.com/@prathyusha_96
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prathyusha-kudari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathyusha-kudari" height="30" width="40" /></a>
