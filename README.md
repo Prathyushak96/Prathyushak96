@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://linkedin.com/in/prathyusha-kudari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathyusha-kudari" height="30" width="40" /></a>
 <a href="https://instagram.com/pra_ts_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pra_ts_" height="30" width="40" /></a>
-<a href="https://medium.com/@prathyusha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prathyusha_96" height="30" width="40" /></a>
+<a href="https://medium.com/@prathyusha_96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prathyusha_96" height="30" width="40" /></a>
 </p>
 
 
